@@ -8,4 +8,6 @@ pip install pyautogui
 pip install keyboard
 # How to run the script
 The Insert Key
+# How to shoot with money
+Press 1 at keyboard and then you can shoot
 # Thanks for reading!
